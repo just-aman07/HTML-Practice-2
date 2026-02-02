@@ -113,3 +113,19 @@ select:focus {
   }
 }
 
+/* ✅ Footer Styling */
+footer {
+  margin-top: 50px;
+  padding: 15px;
+  background: #4a6cf7;
+  color: white;
+  border-radius: 12px;
+  font-size: 15px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+footer p {
+  margin: 5px 0;
+}
+
